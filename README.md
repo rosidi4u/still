@@ -1,4 +1,3 @@
-# still Love You 
 <!DOCTYPE html>
 <html>
 
@@ -223,7 +222,7 @@ document.getElementById("salam").innerHTML=c;
         <td style = "center"><h1 id="salam"></h1></td>
      </tr>
      <tr >
-         <td style = "center"><h2>Hallo ayay sayang ... Setiap jam, menit, detik.. aku tetap sayang dan pastinya rindu kamu..</h2>		 
+         <td style = "center"><h2>Hallo Bella Salsabilla sayang ... Setiap jam, menit, detik.. aku tetap sayang dan pastinya rindu kamu..</h2>		 
 ketuk love di nama aku</td>
      <tr  onclick="play()"  onmouseover="this.src='like.gif"  >
        
